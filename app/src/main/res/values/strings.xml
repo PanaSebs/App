@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyFirstApp</string>
+    <string name="app_name">ASD</string>
     <string name="welcometext" translatable="false">¡Whats up bro!</string>
     <string name="imagendesp">dragon</string>
 </resources>
